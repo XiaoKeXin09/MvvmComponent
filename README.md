@@ -163,9 +163,6 @@ mmkv 是腾讯开源的一个轻量级的存储库，用来代替SharedPreferenc
 -  [安装密码 ： darryrzhong ](https://www.pgyer.com/Pedw)
 
 
-## 项目地址 
-- # **[Android-MvvmComponent-App](https://github.com/darryrzhong/Android-MvvmComponent-App)**
-
 
 欢迎关注作者[darryrzhong](http://www.darryrzhong.xyz),更多干货等你来拿哟.
 
