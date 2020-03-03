@@ -171,9 +171,9 @@ mmkv 是腾讯开源的一个轻量级的存储库，用来代替SharedPreferenc
 
 ### 请赏个小红心！因为你的鼓励是我写作的最大动力！
 >更多精彩文章请关注
-- [个人博客:darryrzhong](http://www.darryrzhong.xyz)
+- [个人博客:迷路国王](https://blog.csdn.net/qq_42795723)
 - [掘金](https://juejin.im/user/5a6c3b19f265da3e49804988)
-- [简书](https://www.jianshu.com/users/b7fdf53ec0b9/timeline)
+- [简书](https://www.jianshu.com/u/ba305b690005)
 - [SegmentFault](https://segmentfault.com/u/darryrzhong_5ac59892a5882/articles)
 - [慕课网手记](https://www.imooc.com/u/6733207)
 
